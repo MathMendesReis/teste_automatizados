@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "test": ""
+    "test": "npx jest"
   },
   "keywords": [],
   "author": "",
