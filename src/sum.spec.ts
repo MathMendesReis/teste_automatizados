@@ -1,3 +1,3 @@
 test("example",()=>{
-  console.log("test ok!")
+  expect(1 + 3).toBe(4)
 })
